@@ -1,0 +1,18 @@
+[
+  {
+    "type": "book",
+    "author": "Wys",
+    "title": "Introduction to UYBOOK (UY)",
+    "description": "An introductionto UYBOOK file format",
+    "cover-link": "https://raw.githubusercontent.com/wys-prog/Uylib-Standard-Libraries/heads/main/how-to-uylib-uy-cover.jpg",
+    "content-link": "https://raw.githubusercontent.com/wys-prog/Uylib-Standard-Libraries/heads/main/Introduction_to_UYBOOK_(UY).uybook"
+  },
+  {
+    "type": "book",
+    "author": "Wys",
+    "title": "Introduction to UYBOOK",
+    "description": "An introductionto UYBOOK file format",
+    "cover-link": "https://raw.githubusercontent.com/wys-prog/Uylib-Standard-Libraries/heads/main/how-to-uylib-en-cover.jpg",
+    "content-link": "https://raw.githubusercontent.com/wys-prog/Uylib-Standard-Libraries/heads/main/Introduction_to_UYBOOK.uybook"
+  }
+]

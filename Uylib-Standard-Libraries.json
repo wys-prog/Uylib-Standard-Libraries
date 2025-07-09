@@ -4,6 +4,10 @@
     "what": "that library is the Standard Library"
   },
   {
+    "type": "library",
+    "url": "https://raw.githubusercontent.com/wys-prog/Islamic-UYBooks/heads/main/Wys's-Islamic-Library.jsonc"
+  },
+  {
     "type": "book",
     "author": "Wys",
     "title": "Introduction to UYBOOK (UY)",

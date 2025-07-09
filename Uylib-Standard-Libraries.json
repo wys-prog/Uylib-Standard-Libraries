@@ -1,5 +1,9 @@
 [
   {
+    "type": "info",
+    "what": "that library is the Standard Library"
+  },
+  {
     "type": "book",
     "author": "Wys",
     "title": "Introduction to UYBOOK (UY)",
